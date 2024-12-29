@@ -1,0 +1,42 @@
+[
+    {
+        "name": "User1",
+        "followers": 1200,
+        "tweets": [
+            "I love coding!",
+            "Python is amazing!"
+        ]
+    },
+    {
+        "name": "User2",
+        "followers": 800,
+        "tweets": [
+            "This is a bad day.",
+            "Feeling sad."
+        ]
+    },
+    {
+        "name": "User3",
+        "followers": 1500,
+        "tweets": [
+            "AI is the future.",
+            "Exploring new tech."
+        ]
+    },
+    {
+        "name": "User4",
+        "followers": 500,
+        "tweets": [
+            "I hate bugs in code.",
+            "Debugging is hard!"
+        ]
+    },
+    {
+        "name": "User5",
+        "followers": 1000,
+        "tweets": [
+            "Learning new skills.",
+            "Coding every day."
+        ]
+    }
+]
